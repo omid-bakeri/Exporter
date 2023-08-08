@@ -91,7 +91,6 @@
             <option value="Text">Text File</option>
             <option value="Pdf">Pdf Format</option>
             <option value="Json">Json File</option>
-            <option value="Csv">Csv File</option>
         </select>
         <button type='submit'>Export to File</button>
     </form>
